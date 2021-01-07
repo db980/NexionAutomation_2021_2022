@@ -1,0 +1,80 @@
+D:\IndustryReport\Shared\Nexion.Shared\bin\SqlServerTypes\x64\msvcr120.dll
+D:\IndustryReport\Shared\Nexion.Shared\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\IndustryReport\Shared\Nexion.Shared\bin\SqlServerTypes\x86\msvcr120.dll
+D:\IndustryReport\Shared\Nexion.Shared\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\IndustryReport\Shared\Nexion.Shared\bin\Nexion.Shared.UI.dll
+D:\IndustryReport\Shared\Nexion.Shared\bin\Nexion.Shared.UI.pdb
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csprojAssemblyReference.cache
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.NexionDataGrid.resources
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.NexionDataReportGrid.resources
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.ShowProgress.resources
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.GenerateResource.cache
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.CoreCompileInputs.cache
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.CopyComplete
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.pdb
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\bin\SqlServerTypes\x64\msvcr120.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\bin\SqlServerTypes\x86\msvcr120.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\bin\Nexion.Shared.UI.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\bin\Nexion.Shared.UI.pdb
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csprojAssemblyReference.cache
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.NexionDataGrid.resources
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.NexionDataReportGrid.resources
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.ShowProgress.resources
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.GenerateResource.cache
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.CoreCompileInputs.cache
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.CopyComplete
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.pdb
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\bin\SqlServerTypes\x64\msvcr120.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\bin\SqlServerTypes\x86\msvcr120.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\bin\Nexion.Shared.UI.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\bin\Nexion.Shared.UI.pdb
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csprojAssemblyReference.cache
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.NexionDataGrid.resources
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.NexionDataReportGrid.resources
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.ShowProgress.resources
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.GenerateResource.cache
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.CoreCompileInputs.cache
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.CopyComplete
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.pdb
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\bin\SqlServerTypes\x64\msvcr120.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\bin\SqlServerTypes\x86\msvcr120.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\bin\Nexion.Shared.UI.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\bin\Nexion.Shared.UI.pdb
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csprojAssemblyReference.cache
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.NexionDataGrid.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.NexionDataReportGrid.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.ShowProgress.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.GenerateResource.cache
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.CoreCompileInputs.cache
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.CopyComplete
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.pdb
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\bin\SqlServerTypes\x64\msvcr120.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\bin\SqlServerTypes\x86\msvcr120.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\bin\Nexion.Shared.UI.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\bin\Nexion.Shared.UI.pdb
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csprojAssemblyReference.cache
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.NexionDataGrid.resources
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.NexionDataReportGrid.resources
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.ShowProgress.resources
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.GenerateResource.cache
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.CoreCompileInputs.cache
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.CopyComplete
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.pdb
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.NexionDataGrid.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.NexionDataReportGrid.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.ShowProgress.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.GenerateResource.cache
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Debug\Nexion.Shared.UI.csproj.CoreCompileInputs.cache

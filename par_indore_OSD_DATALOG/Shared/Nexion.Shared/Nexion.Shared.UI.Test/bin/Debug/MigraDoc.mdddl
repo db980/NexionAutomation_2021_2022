@@ -1,0 +1,284 @@
+\document
+[
+  Info
+  {
+    Title = "Nexion Automation"
+    Subject = "Reports"
+    Author = "Nexion Automation"
+  }
+]
+{
+  \styles
+  {
+    Heading1
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level1
+      }
+    }
+
+    Heading2
+    {
+      Font
+      {
+        Size = 10
+        Bold = true
+        Italic = true
+      }
+      ParagraphFormat
+      {
+        Alignment = Center
+        SpaceBefore = 6
+        SpaceAfter = 3
+        OutlineLevel = Level2
+      }
+    }
+
+    Heading3
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level3
+      }
+    }
+
+    Heading4
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level4
+      }
+    }
+
+    Heading5
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level5
+      }
+    }
+
+    Heading6
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level6
+      }
+    }
+
+    Heading7
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level7
+      }
+    }
+
+    Heading8
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level8
+      }
+    }
+
+    Heading9
+    {
+      ParagraphFormat
+      {
+        OutlineLevel = Level9
+      }
+    }
+
+    InvalidStyleName
+    {
+      Font
+      {
+        Bold = true
+        Underline = Dash
+        Color = Lime
+      }
+    }
+  }
+  \section
+  {
+    \primaryfooter
+    {
+      \tab \field(Page)[]
+    }
+    \paragraph
+    [
+      Format
+      {
+        Font
+        {
+          Size = 12
+        }
+        SpaceAfter = "0.5cm"
+      }
+    ]
+    {
+      \bold{}
+    }
+    \table
+    [
+      Format
+      {
+        Font
+        {
+          Size = 8
+        }
+      }
+      Borders
+      {
+        Visible = true
+      }
+    ]
+    {
+      \columns
+      {
+        \column
+        [
+          Format
+          {
+            Alignment = Center
+          }
+          Width = 93
+        ]
+        \column
+        [
+          Format
+          {
+            Alignment = Center
+          }
+          Width = 93
+        ]
+        \column
+        [
+          Format
+          {
+            Alignment = Center
+          }
+          Width = 93
+        ]
+        \column
+        [
+          Format
+          {
+            Alignment = Center
+          }
+          Width = 93
+        ]
+        \column
+        [
+          Format
+          {
+            Alignment = Center
+          }
+          Width = 43.4
+        ]
+      }
+      \rows
+      {
+        \row
+        [
+          Shading
+          {
+            Color = Gray
+          }
+        ]
+        {
+          \cell
+          {
+            propA
+          }
+          \cell
+          {
+            propB
+          }
+          \cell
+          {
+            propC
+          }
+          \cell
+          {
+            propD
+          }
+        }
+        \row
+        {
+          \cell
+          {
+            1
+          }
+          \cell
+          {
+            1.25
+          }
+          \cell
+          {
+            01-Aug-18 12:00:00 AM
+          }
+          \cell
+          {
+            ABC
+          }
+        }
+        \row
+        {
+          \cell
+          {
+            2
+          }
+          \cell
+          {
+            1.25
+          }
+          \cell
+          {
+            02-Aug-18 12:00:00 AM
+          }
+          \cell
+          {
+            ABC
+          }
+        }
+        \row
+        {
+          \cell
+          {
+            3
+          }
+          \cell
+          {
+            1.25
+          }
+          \cell
+          {
+            01-Aug-18 10:05:06 PM
+          }
+          \cell
+          {
+            ABC
+          }
+        }
+        \row
+        {
+        }
+        \row
+        {
+        }
+        \row
+        {
+        }
+        \row
+        {
+        }
+        \row
+        {
+        }
+      }
+    }
+  }
+}

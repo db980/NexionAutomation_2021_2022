@@ -1,0 +1,1001 @@
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\Interop.VBIDE.dll
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.About.resources
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.Form1.resources
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.ReportFilters.resources
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.ReportGrid.resources
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.Splash.resources
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.csproj.GenerateResource.Cache
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.csproj.CoreCompileInputs.cache
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.VehicleReportGrid.resources
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\bin\Debug\MahindraReports.exe.config
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\bin\Debug\MahindraReports.exe
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\bin\Debug\MahindraReports.pdb
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.Properties.Resources.resources
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\MahindraReports.exe
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\MahindraReports.pdb
+E:\Code\Bitbucket\reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.csprojResolveAssemblyReference.cache
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\bin\Debug\MahindraReports.exe.config
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\bin\Debug\MahindraReports.exe
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\bin\Debug\MahindraReports.pdb
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\Interop.VBIDE.dll
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.About.resources
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.Form1.resources
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.ReportFilters.resources
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.Properties.Resources.resources
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.ReportGrid.resources
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.Splash.resources
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.VehicleReportGrid.resources
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.csproj.GenerateResource.Cache
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.csproj.CoreCompileInputs.cache
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\MahindraReports.exe
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\MahindraReports.pdb
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.EquipmentGrid.resources
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.VehicleReportWithoutPYGrid.resources
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\bin\Debug\unvell.ReoGrid.dll
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\bin\Debug\unvell.ReoGrid.xml
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.csprojResolveAssemblyReference.cache
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.csproj.CopyComplete
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\bin\Debug\Nexion.Shared.Data.dll
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\bin\Debug\Nexion.Shared.UI.dll
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\bin\Debug\Nexion.Shared.Data.pdb
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\bin\Debug\Nexion.Shared.UI.pdb
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\bin\Debug\Nexion.Shared.Core.dll
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\bin\Debug\Nexion.Shared.Core.pdb
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\obj\Debug\DesktopReports.IndividualPausesGrid.resources
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\bin\Debug\linq2db.dll
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\bin\Debug\linq2db.pdb
+E:\Code\Bitbucket\Industry Reports\MahindraReports\MahindraReports\bin\Debug\linq2db.xml
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\DesktopReports.csprojAssemblyReference.cache
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\Interop.VBIDE.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\PARReports.About.resources
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\PARReports.AuditTrail.resources
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\PARReports.SelectColumns.resources
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\PARReports.IndividualPausesGrid.resources
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\PARReports.Form1.resources
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\PARReports.ReportFilters.resources
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\PARReports.Properties.Resources.resources
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\PARReports.ShowProgress.resources
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\PARReports.Splash.resources
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\PARReports.TagData.resources
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\DesktopReports.csproj.GenerateResource.cache
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\DesktopReports.csproj.CoreCompileInputs.cache
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\PARReports.exe.config
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\PARReports.exe
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\PARReports.pdb
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\linq2db.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\Nexion.Shared.Core.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\Nexion.Shared.Data.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\Nexion.Shared.UI.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\unvell.ReoGrid.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\PdfSharp.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\MigraDoc.DocumentObjectModel.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\MigraDoc.Rendering.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\unvell.ReoScript.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\PdfSharp.Charting.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\Antlr3.Runtime.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\Nexion.Shared.UI.pdb
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\linq2db.pdb
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\linq2db.xml
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\Nexion.Shared.Core.pdb
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\Nexion.Shared.Data.pdb
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\unvell.ReoGrid.pdb
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\unvell.ReoGrid.xml
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\unvell.ReoGrid.dll.config
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\PdfSharp.xml
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\MigraDoc.DocumentObjectModel.xml
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\MigraDoc.Rendering.xml
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\PdfSharp.Charting.xml
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\de\PdfSharp.resources.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\de\MigraDoc.Rendering.resources.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\de\PdfSharp.Charting.resources.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\DesktopReports.csproj.CopyComplete
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\PARReports.exe
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\obj\Debug\PARReports.pdb
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\MoreLinq.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\System.ValueTuple.dll
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\MoreLinq.xml
+E:\Code\Bitbucket\Industry Reports\PAR\PARReports\bin\Debug\System.ValueTuple.xml
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\DesktopReports.csprojAssemblyReference.cache
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\PARReports.About.resources
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\PARReports.AuditTrail.resources
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\PARReports.SelectColumns.resources
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\PARReports.IndividualPausesGrid.resources
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\PARReports.Form1.resources
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\PARReports.ReportFilters.resources
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\PARReports.Properties.Resources.resources
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\PARReports.ShowProgress.resources
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\PARReports.Splash.resources
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\PARReports.TagData.resources
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\DesktopReports.csproj.GenerateResource.cache
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\DesktopReports.csproj.CoreCompileInputs.cache
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\PARReports.exe
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\PARReports.pdb
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\PARReports.exe.config
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\PARReports.exe
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\PARReports.pdb
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\linq2db.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\MoreLinq.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\Nexion.Shared.Core.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\Nexion.Shared.Data.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\Nexion.Shared.UI.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\System.ValueTuple.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\unvell.ReoGrid.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\PdfSharp.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\MigraDoc.DocumentObjectModel.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\MigraDoc.Rendering.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\unvell.ReoScript.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\PdfSharp.Charting.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\Antlr3.Runtime.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\Nexion.Shared.UI.pdb
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\linq2db.pdb
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\linq2db.xml
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\MoreLinq.xml
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\Nexion.Shared.Core.pdb
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\Nexion.Shared.Data.pdb
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\System.ValueTuple.xml
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\unvell.ReoGrid.pdb
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\unvell.ReoGrid.xml
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\unvell.ReoGrid.dll.config
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\PdfSharp.xml
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\MigraDoc.DocumentObjectModel.xml
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\MigraDoc.Rendering.xml
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\PdfSharp.Charting.xml
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\de\PdfSharp.resources.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\de\MigraDoc.Rendering.resources.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\de\PdfSharp.Charting.resources.dll
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\DesktopReports.csproj.CopyComplete
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\bin\Debug\Profile.xml
+E:\Code\Bitbucket\Industry Reports\PARActive\PARReports\obj\Debug\Interop.VBIDE.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\Interop.VBIDE.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.About.resources
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.SelectColumns.resources
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.Form1.resources
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.ReportFilters.resources
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.ShowProgress.resources
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.Splash.resources
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.TagData.resources
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\DesktopReports.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\DesktopReports.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Profile.xml
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\MerinoReports.exe.config
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\MerinoReports.exe
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\MerinoReports.pdb
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\linq2db.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\MoreLinq.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Nexion.Shared.Core.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Nexion.Shared.Data.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Nexion.Shared.UI.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\System.ValueTuple.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\unvell.ReoGrid.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\unvell.ReoScript.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Antlr3.Runtime.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\linq2db.xml
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\MoreLinq.xml
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\System.ValueTuple.xml
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\unvell.ReoGrid.xml
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\unvell.ReoGrid.dll.config
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\DesktopReports.csproj.CopyComplete
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.exe
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.pdb
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.ReportDataGrid.resources
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.frmShiftSetting.resources
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.PreferenceHWGLog.resources
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\DesktopReports.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Boo.Lang.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Common.Logging.Core.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Common.Logging.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\FileHelpers.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\ReactiveETL.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Rhino.DSL.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Rhino.Etl.Core.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Rhino.Etl.Dsl.dll
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Common.Logging.pdb
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Common.Logging.xml
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Common.Logging.Core.pdb
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Common.Logging.Core.xml
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\FileHelpers.xml
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Rhino.Etl.Core.xml
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Rhino.Etl.Dsl.xml
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.exe.config
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\obj\Debug\MerinoReports.UI.frmETLProcess.resources
+C:\Users\lenovo\Source\Repos\industryreports\Merino\PARReports\bin\Debug\Nexion.Shared.Core.pdb
+E:\industryreports\Merino\PARReports\bin\Debug\Profile.xml
+E:\industryreports\Merino\PARReports\bin\Debug\MerinoReports.exe.config
+E:\industryreports\Merino\PARReports\bin\Debug\MerinoReports.exe
+E:\industryreports\Merino\PARReports\bin\Debug\MerinoReports.pdb
+E:\industryreports\Merino\PARReports\bin\Debug\Boo.Lang.Compiler.dll
+E:\industryreports\Merino\PARReports\bin\Debug\Boo.Lang.dll
+E:\industryreports\Merino\PARReports\bin\Debug\Boo.Lang.Parser.dll
+E:\industryreports\Merino\PARReports\bin\Debug\Common.Logging.Core.dll
+E:\industryreports\Merino\PARReports\bin\Debug\Common.Logging.dll
+E:\industryreports\Merino\PARReports\bin\Debug\FileHelpers.dll
+E:\industryreports\Merino\PARReports\bin\Debug\linq2db.dll
+E:\industryreports\Merino\PARReports\bin\Debug\MoreLinq.dll
+E:\industryreports\Merino\PARReports\bin\Debug\Nexion.Shared.Core.dll
+E:\industryreports\Merino\PARReports\bin\Debug\Nexion.Shared.Data.dll
+E:\industryreports\Merino\PARReports\bin\Debug\Nexion.Shared.UI.dll
+E:\industryreports\Merino\PARReports\bin\Debug\ReactiveETL.dll
+E:\industryreports\Merino\PARReports\bin\Debug\Rhino.DSL.dll
+E:\industryreports\Merino\PARReports\bin\Debug\Rhino.Etl.Core.dll
+E:\industryreports\Merino\PARReports\bin\Debug\Rhino.Etl.Dsl.dll
+E:\industryreports\Merino\PARReports\bin\Debug\System.ValueTuple.dll
+E:\industryreports\Merino\PARReports\bin\Debug\unvell.ReoGrid.dll
+E:\industryreports\Merino\PARReports\bin\Debug\unvell.ReoScript.dll
+E:\industryreports\Merino\PARReports\bin\Debug\Antlr3.Runtime.dll
+E:\industryreports\Merino\PARReports\bin\Debug\Nexion.Shared.Core.pdb
+E:\industryreports\Merino\PARReports\bin\Debug\Common.Logging.xml
+E:\industryreports\Merino\PARReports\bin\Debug\Common.Logging.Core.xml
+E:\industryreports\Merino\PARReports\bin\Debug\FileHelpers.xml
+E:\industryreports\Merino\PARReports\bin\Debug\linq2db.xml
+E:\industryreports\Merino\PARReports\bin\Debug\MoreLinq.xml
+E:\industryreports\Merino\PARReports\bin\Debug\Rhino.Etl.Core.xml
+E:\industryreports\Merino\PARReports\bin\Debug\Rhino.Etl.Dsl.xml
+E:\industryreports\Merino\PARReports\bin\Debug\System.ValueTuple.xml
+E:\industryreports\Merino\PARReports\bin\Debug\unvell.ReoGrid.xml
+E:\industryreports\Merino\PARReports\bin\Debug\unvell.ReoGrid.dll.config
+E:\industryreports\Merino\PARReports\obj\Debug\DesktopReports.csprojAssemblyReference.cache
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.exe.config
+E:\industryreports\Merino\PARReports\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\industryreports\Merino\PARReports\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\industryreports\Merino\PARReports\obj\Debug\Interop.VBIDE.dll
+E:\industryreports\Merino\PARReports\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.About.resources
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.UI.frmETLProcess.resources
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.PreferenceHWGLog.resources
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.SelectColumns.resources
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.frmShiftSetting.resources
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.ReportDataGrid.resources
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.Form1.resources
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.ReportFilters.resources
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.Properties.Resources.resources
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.ShowProgress.resources
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.Splash.resources
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.TagData.resources
+E:\industryreports\Merino\PARReports\obj\Debug\DesktopReports.csproj.GenerateResource.cache
+E:\industryreports\Merino\PARReports\obj\Debug\DesktopReports.csproj.CoreCompileInputs.cache
+E:\industryreports\Merino\PARReports\obj\Debug\DesktopReports.csproj.CopyComplete
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.exe
+E:\industryreports\Merino\PARReports\obj\Debug\MerinoReports.pdb
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Profile.xml
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\MerinoReports.exe.config
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\MerinoReports.exe
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\MerinoReports.pdb
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Boo.Lang.Compiler.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Boo.Lang.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Boo.Lang.Parser.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Common.Logging.Core.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Common.Logging.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\FileHelpers.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\linq2db.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\MoreLinq.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Nexion.Shared.Core.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Nexion.Shared.Data.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Nexion.Shared.UI.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\ReactiveETL.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Rhino.DSL.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Rhino.Etl.Core.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Rhino.Etl.Dsl.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\System.ValueTuple.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\unvell.ReoGrid.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\unvell.ReoScript.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Antlr3.Runtime.dll
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Common.Logging.xml
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Common.Logging.Core.xml
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\FileHelpers.xml
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\linq2db.xml
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\MoreLinq.xml
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Rhino.Etl.Core.xml
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\Rhino.Etl.Dsl.xml
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\System.ValueTuple.xml
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\unvell.ReoGrid.xml
+E:\Nexion_IndustryReport\Merino\PARReports\bin\Debug\unvell.ReoGrid.dll.config
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\DesktopReports.csprojAssemblyReference.cache
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.exe.config
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\Interop.VBIDE.dll
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.About.resources
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.UI.frmETLProcess.resources
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.PreferenceHWGLog.resources
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.SelectColumns.resources
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.frmShiftSetting.resources
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.ReportDataGrid.resources
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.Form1.resources
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.ReportFilters.resources
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.Properties.Resources.resources
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.ShowProgress.resources
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.Splash.resources
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.TagData.resources
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\DesktopReports.csproj.GenerateResource.cache
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\DesktopReports.csproj.CopyComplete
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.exe
+E:\Nexion_IndustryReport\Merino\PARReports\obj\Debug\MerinoReports.pdb
+E:\Merino\PARReports\obj\Debug\DesktopReports.csprojAssemblyReference.cache
+E:\Merino\PARReports\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Merino\PARReports\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Merino\PARReports\obj\Debug\Interop.VBIDE.dll
+E:\Merino\PARReports\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+E:\Merino\PARReports\obj\Debug\DesktopReports.csproj.GenerateResource.cache
+E:\Merino\PARReports\bin\Debug\Profile.xml
+E:\Merino\PARReports\bin\Debug\Boo.Lang.Compiler.dll
+E:\Merino\PARReports\bin\Debug\Boo.Lang.dll
+E:\Merino\PARReports\bin\Debug\Boo.Lang.Parser.dll
+E:\Merino\PARReports\bin\Debug\Common.Logging.Core.dll
+E:\Merino\PARReports\bin\Debug\Common.Logging.dll
+E:\Merino\PARReports\bin\Debug\FileHelpers.dll
+E:\Merino\PARReports\bin\Debug\linq2db.dll
+E:\Merino\PARReports\bin\Debug\MoreLinq.dll
+E:\Merino\PARReports\bin\Debug\Nexion.Shared.Core.dll
+E:\Merino\PARReports\bin\Debug\Nexion.Shared.Data.dll
+E:\Merino\PARReports\bin\Debug\Nexion.Shared.UI.dll
+E:\Merino\PARReports\bin\Debug\ReactiveETL.dll
+E:\Merino\PARReports\bin\Debug\Rhino.DSL.dll
+E:\Merino\PARReports\bin\Debug\Rhino.Etl.Core.dll
+E:\Merino\PARReports\bin\Debug\Rhino.Etl.Dsl.dll
+E:\Merino\PARReports\bin\Debug\System.ValueTuple.dll
+E:\Merino\PARReports\bin\Debug\unvell.ReoGrid.dll
+E:\Merino\PARReports\bin\Debug\unvell.ReoScript.dll
+E:\Merino\PARReports\bin\Debug\Antlr3.Runtime.dll
+E:\Merino\PARReports\bin\Debug\Common.Logging.xml
+E:\Merino\PARReports\bin\Debug\Common.Logging.Core.xml
+E:\Merino\PARReports\bin\Debug\FileHelpers.xml
+E:\Merino\PARReports\bin\Debug\linq2db.xml
+E:\Merino\PARReports\bin\Debug\MoreLinq.xml
+E:\Merino\PARReports\bin\Debug\Rhino.Etl.Core.xml
+E:\Merino\PARReports\bin\Debug\Rhino.Etl.Dsl.xml
+E:\Merino\PARReports\bin\Debug\System.ValueTuple.xml
+E:\Merino\PARReports\bin\Debug\unvell.ReoGrid.xml
+E:\Merino\PARReports\bin\Debug\unvell.ReoGrid.dll.config
+E:\Merino\PARReports\obj\Debug\DesktopReports.csproj.CopyComplete
+E:\Merino\PARReports\obj\Debug\ParReports_Indore.About.resources
+E:\Merino\PARReports\obj\Debug\ParReports_Indore.UI.frmETLProcess.resources
+E:\Merino\PARReports\obj\Debug\ParReports_Indore.SelectColumns.resources
+E:\Merino\PARReports\obj\Debug\ParReports_Indore.ReportDataGrid.resources
+E:\Merino\PARReports\obj\Debug\ParReports_Indore.Form1.resources
+E:\Merino\PARReports\obj\Debug\ParReports_Indore.ReportFilters.resources
+E:\Merino\PARReports\obj\Debug\ParReports_Indore.ShowProgress.resources
+E:\Merino\PARReports\obj\Debug\ParReports_Indore.Splash.resources
+E:\Merino\PARReports\obj\Debug\ParReports_Indore.TagData.resources
+E:\Merino\PARReports\bin\Debug\ParReports_Indore.exe.config
+E:\Merino\PARReports\bin\Debug\ParReports_Indore.exe
+E:\Merino\PARReports\bin\Debug\ParReports_Indore.pdb
+E:\Merino\PARReports\obj\Debug\ParReports_Indore.exe.config
+E:\Merino\PARReports\obj\Debug\ParReports_Indore.Properties.Resources.resources
+E:\Merino\PARReports\obj\Debug\ParReports_Indore.exe
+E:\Merino\PARReports\obj\Debug\ParReports_Indore.pdb
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\DesktopReports.csprojAssemblyReference.cache
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\Interop.VBIDE.dll
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.About.resources
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.UI.frmETLProcess.resources
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.frmPDFSettings.resources
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.SelectColumns.resources
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.ReportDataGrid.resources
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.Form1.resources
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.ReportFilters.resources
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.Properties.Resources.resources
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.ShowProgress.resources
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.Splash.resources
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.TagData.resources
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\DesktopReports.csproj.GenerateResource.cache
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Profile.xml
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\ParReports_Indore.exe.config
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\ParReports_Indore.exe
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\ParReports_Indore.pdb
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Boo.Lang.Compiler.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Boo.Lang.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Boo.Lang.Parser.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Common.Logging.Core.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Common.Logging.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\FileHelpers.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\linq2db.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\MigraDoc.DocumentObjectModel.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\MigraDoc.Rendering.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\MoreLinq.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Nexion.Shared.Core.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Nexion.Shared.Data.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Nexion.Shared.UI.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\PdfSharp.Charting.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\PdfSharp.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\ReactiveETL.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.DSL.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.Etl.Core.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.Etl.Dsl.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\System.Drawing.Common.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\System.ValueTuple.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\unvell.ReoGrid.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\unvell.ReoScript.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Antlr3.Runtime.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Common.Logging.xml
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Common.Logging.Core.xml
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\FileHelpers.xml
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\linq2db.xml
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\MigraDoc.DocumentObjectModel.xml
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\MigraDoc.Rendering.xml
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\MoreLinq.xml
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\PdfSharp.xml
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\PdfSharp.Charting.xml
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.Etl.Core.xml
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.Etl.Dsl.xml
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\System.ValueTuple.xml
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\unvell.ReoGrid.xml
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\unvell.ReoGrid.dll.config
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\de\MigraDoc.Rendering.resources.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\de\PdfSharp.resources.dll
+E:\ParReports_Indore\ParReports_Indore\bin\Debug\de\PdfSharp.Charting.resources.dll
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\DesktopReports.csproj.CopyComplete
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.exe
+E:\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.pdb
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Profile.xml
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\ParReports_Indore.exe.config
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\ParReports_Indore.exe
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Boo.Lang.Compiler.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Boo.Lang.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Boo.Lang.Parser.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Common.Logging.Core.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Common.Logging.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\FileHelpers.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\linq2db.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\MigraDoc.Rendering.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\MoreLinq.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Nexion.Shared.Core.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Nexion.Shared.Data.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Nexion.Shared.UI.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\PdfSharp.Charting.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\PdfSharp.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\ReactiveETL.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.DSL.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.Etl.Core.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.Etl.Dsl.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\System.Drawing.Common.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\System.ValueTuple.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\unvell.ReoGrid.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\unvell.ReoScript.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Antlr3.Runtime.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Common.Logging.xml
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Common.Logging.Core.xml
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\FileHelpers.xml
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\linq2db.xml
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\MigraDoc.Rendering.xml
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\MoreLinq.xml
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\PdfSharp.xml
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\PdfSharp.Charting.xml
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.Etl.Core.xml
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.Etl.Dsl.xml
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\System.ValueTuple.xml
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\unvell.ReoGrid.xml
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\unvell.ReoGrid.dll.config
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\de\PdfSharp.resources.dll
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\DesktopReports.csprojAssemblyReference.cache
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\Interop.VBIDE.dll
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.About.resources
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.UI.frmETLProcess.resources
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.frmPDFSettings.resources
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.SelectColumns.resources
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.ReportDataGrid.resources
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.Form1.resources
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.ReportFilters.resources
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.Properties.Resources.resources
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.ShowProgress.resources
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.Splash.resources
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.TagData.resources
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\DesktopReports.csproj.GenerateResource.cache
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\DesktopReports.csproj.CoreCompileInputs.cache
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\DesktopReports.csproj.CopyComplete
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.exe
+D:\testing\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.pdb
+D:\testing\ParReports_Indore\ParReports_Indore\bin\Debug\ParReports_Indore.pdb
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\DesktopReports.csprojAssemblyReference.cache
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\Interop.VBIDE.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.About.resources
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.UI.frmETLProcess.resources
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.frmPDFSettings.resources
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.SelectColumns.resources
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.ReportDataGrid.resources
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.Form1.resources
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.ReportFilters.resources
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.Properties.Resources.resources
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.ShowProgress.resources
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.Splash.resources
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.TagData.resources
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\DesktopReports.csproj.GenerateResource.cache
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\DesktopReports.csproj.CoreCompileInputs.cache
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Profile.xml
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\ParReports_Indore.exe.config
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\ParReports_Indore.exe
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\ParReports_Indore.pdb
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Boo.Lang.Compiler.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Boo.Lang.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Boo.Lang.Parser.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Common.Logging.Core.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Common.Logging.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\FileHelpers.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\linq2db.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\MigraDoc.Rendering.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\MoreLinq.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Nexion.Shared.Core.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Nexion.Shared.Data.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Nexion.Shared.UI.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\PdfSharp.Charting.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\PdfSharp.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\ReactiveETL.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.DSL.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.Etl.Core.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.Etl.Dsl.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\System.Drawing.Common.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\System.ValueTuple.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\unvell.ReoGrid.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\unvell.ReoScript.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Antlr3.Runtime.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Nexion.Shared.UI.pdb
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Common.Logging.xml
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Common.Logging.Core.xml
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\FileHelpers.xml
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\linq2db.xml
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\MigraDoc.Rendering.xml
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\MoreLinq.xml
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\PdfSharp.xml
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\PdfSharp.Charting.xml
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.Etl.Core.xml
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\Rhino.Etl.Dsl.xml
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\System.ValueTuple.xml
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\unvell.ReoGrid.xml
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\unvell.ReoGrid.dll.config
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\de\PdfSharp.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\DesktopReports.csproj.CopyComplete
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.exe
+D:\testing\22_05_2020\git_new_2020_2021\ParReports_Indore\ParReports_Indore\obj\Debug\ParReports_Indore.pdb
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Profile.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ParReports_Indore.exe.config
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ParReports_Indore.exe
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ParReports_Indore.pdb
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Boo.Lang.Compiler.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Boo.Lang.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Boo.Lang.Parser.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.Core.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\FileHelpers.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\linq2db.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.Rendering.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MoreLinq.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Nexion.Shared.Core.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Nexion.Shared.Data.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Nexion.Shared.UI.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.Charting.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ReactiveETL.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.DSL.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Core.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Dsl.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\System.Drawing.Common.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\System.ValueTuple.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoGrid.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoScript.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Antlr3.Runtime.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Nexion.Shared.UI.pdb
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.Core.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\FileHelpers.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\linq2db.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.Rendering.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MoreLinq.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.Charting.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Core.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Dsl.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\System.ValueTuple.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoGrid.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoGrid.dll.config
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\PdfSharp.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csprojAssemblyReference.cache
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\Interop.VBIDE.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.About.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.UI.frmETLProcess.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.frmPDFSettings.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.SelectColumns.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ReportDataGrid.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Form1.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ReportFilters.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Properties.Resources.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ShowProgress.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Splash.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.TagData.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.GenerateResource.cache
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.CoreCompileInputs.cache
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.CopyComplete
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.exe
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.pdb
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Profile.xml
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ParReports_Indore.exe.config
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ParReports_Indore.exe
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ParReports_Indore.pdb
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Boo.Lang.Compiler.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Boo.Lang.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Boo.Lang.Parser.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.Core.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\FileHelpers.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\linq2db.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.Rendering.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MoreLinq.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Nexion.Shared.Core.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Nexion.Shared.Data.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Nexion.Shared.UI.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.Charting.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ReactiveETL.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.DSL.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Core.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Dsl.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\System.Drawing.Common.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\System.ValueTuple.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoGrid.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoScript.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Antlr3.Runtime.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Nexion.Shared.UI.pdb
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.xml
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.Core.xml
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\FileHelpers.xml
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\linq2db.xml
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.Rendering.xml
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MoreLinq.xml
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.xml
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.Charting.xml
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Core.xml
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Dsl.xml
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\System.ValueTuple.xml
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoGrid.xml
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoGrid.dll.config
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\PdfSharp.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csprojAssemblyReference.cache
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\Interop.VBIDE.dll
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.About.resources
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.UI.frmETLProcess.resources
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.frmPDFSettings.resources
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.SelectColumns.resources
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ReportDataGrid.resources
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Form1.resources
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ReportFilters.resources
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Properties.Resources.resources
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ShowProgress.resources
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Splash.resources
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.TagData.resources
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.GenerateResource.cache
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.CoreCompileInputs.cache
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.CopyComplete
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.exe
+D:\testing\New folder\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.pdb
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\Interop.VBIDE.dll
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.About.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.UI.frmETLProcess.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.frmPDFSettings.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.SelectColumns.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ReportDataGrid.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Form1.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ReportFilters.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Properties.Resources.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ShowProgress.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Splash.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.TagData.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.GenerateResource.cache
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.CoreCompileInputs.cache
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Profile.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ParReports_Indore.exe.config
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ParReports_Indore.exe
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ParReports_Indore.pdb
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Boo.Lang.Compiler.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Boo.Lang.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Boo.Lang.Parser.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.Core.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\FileHelpers.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\linq2db.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.Rendering.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MoreLinq.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Nexion.Shared.Core.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Nexion.Shared.Data.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Nexion.Shared.UI.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.Charting.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ReactiveETL.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.DSL.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Core.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Dsl.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\System.Drawing.Common.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\System.ValueTuple.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoGrid.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoScript.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Antlr3.Runtime.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.Core.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\FileHelpers.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\linq2db.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.Rendering.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\MoreLinq.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Nexion.Shared.UI.pdb
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.Charting.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Core.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Dsl.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\System.ValueTuple.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoGrid.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoGrid.dll.config
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\PdfSharp.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csprojAssemblyReference.cache
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\Interop.VBIDE.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.About.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.UI.frmETLProcess.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.frmPDFSettings.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.SelectColumns.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ReportDataGrid.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Form1.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ReportFilters.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Properties.Resources.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ShowProgress.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Splash.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.TagData.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.GenerateResource.cache
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.CoreCompileInputs.cache
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.CopyComplete
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.exe
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\par_indore_DEH_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.pdb
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Profile.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\ParReports_Indore.exe.config
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\ParReports_Indore.exe
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\ParReports_Indore.pdb
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Boo.Lang.Compiler.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Boo.Lang.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Boo.Lang.Parser.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.Core.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\FileHelpers.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\linq2db.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.Rendering.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\MoreLinq.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.Charting.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\ReactiveETL.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Rhino.DSL.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Core.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Dsl.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\System.Drawing.Common.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\System.ValueTuple.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoGrid.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoScript.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Antlr3.Runtime.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Common.Logging.Core.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\FileHelpers.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\linq2db.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\MigraDoc.Rendering.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\MoreLinq.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Nexion.Shared.UI.pdb
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\PdfSharp.Charting.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Core.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\Rhino.Etl.Dsl.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\System.ValueTuple.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoGrid.xml
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\unvell.ReoGrid.dll.config
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\de\PdfSharp.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csprojAssemblyReference.cache
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\Interop.VBIDE.dll
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.ResolveComReference.cache
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.About.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.UI.frmETLProcess.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.frmPDFSettings.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.SelectColumns.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ReportDataGrid.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Form1.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ReportFilters.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Properties.Resources.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.ShowProgress.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.Splash.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.TagData.resources
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.GenerateResource.cache
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.CoreCompileInputs.cache
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\DesktopReports.csproj.CopyComplete
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.exe
+D:\Rockwell_Software\Deepak_Backup\Running_project_02_01_2020\New folder\par_indore_OSD_DATALOG\ParReports_Indore\obj\Debug\ParReports_Indore.pdb

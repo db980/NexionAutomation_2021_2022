@@ -1,0 +1,6 @@
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.Core\bin\Release\Nexion.Shared.Core.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.Core\bin\Release\Nexion.Shared.Core.pdb
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.Core\obj\Release\Nexion.Shared.Core.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.Core\obj\Release\Nexion.Shared.Core.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.Core\obj\Release\Nexion.Shared.Core.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.Core\obj\Release\Nexion.Shared.Core.pdb

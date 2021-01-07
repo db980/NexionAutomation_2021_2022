@@ -1,0 +1,21 @@
+D:\IndustryReport\Shared\Nexion.Shared\bin\Nexion.Shared.Data.dll
+D:\IndustryReport\Shared\Nexion.Shared\bin\Nexion.Shared.Data.pdb
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.csprojAssemblyReference.cache
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.csproj.CoreCompileInputs.cache
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.csproj.CopyComplete
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.pdb
+D:\IndustryReport1\Shared\Nexion.Shared\bin\Nexion.Shared.Data.dll
+D:\IndustryReport1\Shared\Nexion.Shared\bin\Nexion.Shared.Data.pdb
+D:\IndustryReport1\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.csprojAssemblyReference.cache
+D:\IndustryReport1\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.csproj.CoreCompileInputs.cache
+D:\IndustryReport1\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.csproj.CopyComplete
+D:\IndustryReport1\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.dll
+D:\IndustryReport1\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.pdb
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\bin\Nexion.Shared.Data.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\bin\Nexion.Shared.Data.pdb
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.csprojAssemblyReference.cache
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.csproj.CoreCompileInputs.cache
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.csproj.CopyComplete
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.Data\obj\Debug\Nexion.Shared.Data.pdb

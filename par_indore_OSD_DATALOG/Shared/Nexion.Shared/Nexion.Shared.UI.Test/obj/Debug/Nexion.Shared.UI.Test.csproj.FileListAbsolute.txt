@@ -1,0 +1,144 @@
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.UI.Test.pdb
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.UI.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\unvell.ReoGrid.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\PdfSharp.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\unvell.ReoScript.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Antlr3.Runtime.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.UI.pdb
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\unvell.ReoGrid.pdb
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\unvell.ReoGrid.dll.config
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\PdfSharp.xml
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\PdfSharp.resources.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.csproj.CoreCompileInputs.cache
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.csproj.CopyComplete
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.pdb
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.csprojAssemblyReference.cache
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\MigraDoc.DocumentObjectModel.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\MigraDoc.Rendering.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\PdfSharp.Charting.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\MigraDoc.DocumentObjectModel.xml
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\MigraDoc.Rendering.xml
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\PdfSharp.Charting.xml
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\MigraDoc.Rendering.resources.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\PdfSharp.Charting.resources.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.Core.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.Core.pdb
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.UI.Test.exe
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.exe
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.csprojAssemblyReference.cache
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.UI.Test.exe
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.UI.Test.pdb
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.UI.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\unvell.ReoGrid.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\PdfSharp.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.Core.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\unvell.ReoScript.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\PdfSharp.Charting.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Antlr3.Runtime.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.UI.pdb
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\unvell.ReoGrid.pdb
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\unvell.ReoGrid.dll.config
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\PdfSharp.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\MigraDoc.DocumentObjectModel.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\MigraDoc.Rendering.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.Core.pdb
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\PdfSharp.Charting.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.csproj.CopyComplete
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.exe
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.pdb
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.UI.Test.exe
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.UI.Test.pdb
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.UI.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\unvell.ReoGrid.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\MigraDoc.Rendering.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.Core.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\PdfSharp.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\unvell.ReoScript.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\PdfSharp.Charting.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Antlr3.Runtime.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.UI.pdb
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\unvell.ReoGrid.pdb
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\unvell.ReoGrid.dll.config
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\MigraDoc.Rendering.xml
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\Nexion.Shared.Core.pdb
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\PdfSharp.xml
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\PdfSharp.Charting.xml
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\PdfSharp.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.csprojAssemblyReference.cache
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.csproj.CoreCompileInputs.cache
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.csproj.CopyComplete
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.exe
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.UI.Test\obj\Debug\Nexion.Shared.UI.Test.pdb

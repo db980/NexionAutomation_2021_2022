@@ -1,0 +1,366 @@
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.UI.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.UI.pdb
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\DocumentFormat.OpenXml.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ExporterObjects.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ExportImplementation.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Newtonsoft.Json.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\RazorEngine.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\System.Web.Razor.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoGrid.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Xamasoft.JsonClassGenerator.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoScript.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\itextsharp.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Antlr3.Runtime.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoGrid.pdb
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoGrid.dll.config
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Newtonsoft.Json.xml
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\RazorEngine.xml
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\System.Web.Razor.xml
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csproj.CoreCompileInputs.cache
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csproj.CopyComplete
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.pdb
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.ShowProgress.resources
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csproj.GenerateResource.cache
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.Core.dll
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.Core.pdb
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.NexionDataGrid.resources
+E:\Code\Bitbucket\Industry Reports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.NexionDataReportGrid.resources
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.UI.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.UI.pdb
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ExporterObjects.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ExportImplementation.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.DocumentObjectModel.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.Rendering.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.RtfRendering.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Newtonsoft.Json.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.Core.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\PdfSharp.Charting.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\PdfSharp.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\RazorEngine.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\System.Web.Razor.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoGrid.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Xamasoft.JsonClassGenerator.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoScript.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\itextsharp.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Antlr3.Runtime.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.Core.pdb
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoGrid.pdb
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoGrid.dll.config
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.DocumentObjectModel.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.Rendering.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.RtfRendering.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Newtonsoft.Json.pdb
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Newtonsoft.Json.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\PdfSharp.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\PdfSharp.Charting.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\RazorEngine.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\System.Web.Razor.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\MigraDoc.Rendering.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\PdfSharp.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\PdfSharp.Charting.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.NexionDataGrid.resources
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.NexionDataReportGrid.resources
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.ShowProgress.resources
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csproj.CopyComplete
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.pdb
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\EnvDTE.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\stdole.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\EnvDTE80.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.Build.Tasks.Core.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\VSLangProj.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\VSLangProj80.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.MSXML.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.Build.Utilities.Core.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.Build.Framework.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\VSLangProj2.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\Source\Repos\industryreports\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csprojAssemblyReference.cache
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\SqlServerTypes\x64\msvcr120.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\SqlServerTypes\x86\msvcr120.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.UI.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.UI.pdb
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\DocumentFormat.OpenXml.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ExporterObjects.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ExportImplementation.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.SqlServer.Types.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.DocumentObjectModel.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.Rendering.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.RtfRendering.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Newtonsoft.Json.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.Core.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\PdfSharp.Charting.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\PdfSharp.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\RazorEngine.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\System.Web.Razor.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoGrid.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Xamasoft.JsonClassGenerator.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoScript.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\itextsharp.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\EnvDTE.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Antlr3.Runtime.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\stdole.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\EnvDTE80.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.Build.Tasks.Core.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Data.Services.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\VSLangProj.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Data.Core.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\VSLangProj80.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.GraphModel.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.MSXML.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.Build.Utilities.Core.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.Build.Framework.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\VSLangProj2.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.Core.pdb
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoGrid.pdb
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoGrid.dll.config
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.DocumentObjectModel.xml
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.Rendering.xml
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.RtfRendering.xml
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Newtonsoft.Json.xml
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\PdfSharp.xml
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\PdfSharp.Charting.xml
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\RazorEngine.xml
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\System.Web.Razor.xml
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\MigraDoc.Rendering.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\MigraDoc.RtfRendering.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\PdfSharp.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\PdfSharp.Charting.resources.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csprojAssemblyReference.cache
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.NexionDataGrid.resources
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.NexionDataReportGrid.resources
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.ShowProgress.resources
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csproj.GenerateResource.cache
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csproj.CoreCompileInputs.cache
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csproj.CopyComplete
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.dll
+D:\testing\22-05-2020 new\git_new_2020-2021\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.pdb
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\SqlServerTypes\x64\msvcr120.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\SqlServerTypes\x86\msvcr120.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.UI.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.UI.pdb
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\DocumentFormat.OpenXml.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ExporterObjects.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\ExportImplementation.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.SqlServer.Types.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.DocumentObjectModel.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.Rendering.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.RtfRendering.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Newtonsoft.Json.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.Core.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\PdfSharp.Charting.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\PdfSharp.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\RazorEngine.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\System.Web.Razor.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoGrid.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Xamasoft.JsonClassGenerator.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoScript.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\itextsharp.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\EnvDTE.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Antlr3.Runtime.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\stdole.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\EnvDTE80.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.Build.Tasks.Core.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Data.Services.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\VSLangProj.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Data.Core.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\VSLangProj80.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.GraphModel.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.MSXML.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.Build.Utilities.Core.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.Build.Framework.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\VSLangProj2.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Nexion.Shared.Core.pdb
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoGrid.pdb
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\unvell.ReoGrid.dll.config
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.DocumentObjectModel.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.Rendering.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\MigraDoc.RtfRendering.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Newtonsoft.Json.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\PdfSharp.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\PdfSharp.Charting.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\RazorEngine.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\System.Web.Razor.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\MigraDoc.Rendering.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\MigraDoc.RtfRendering.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\PdfSharp.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\bin\Release\de\PdfSharp.Charting.resources.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csprojAssemblyReference.cache
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.NexionDataGrid.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.NexionDataReportGrid.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.ShowProgress.resources
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csproj.GenerateResource.cache
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csproj.CoreCompileInputs.cache
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csproj.CopyComplete
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.dll
+D:\testing\22_05_2020\git_new_2020_2021\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.pdb
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csprojAssemblyReference.cache
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.NexionDataGrid.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.NexionDataReportGrid.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.ShowProgress.resources
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csproj.GenerateResource.cache
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.csproj.CoreCompileInputs.cache
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.dll
+D:\Rockwell_Software\Deepak_Backup\ITC_report_19_10_2020\par_indore_DEH_DATALOG\Shared\Nexion.Shared\Nexion.Shared.UI\obj\Release\Nexion.Shared.UI.pdb

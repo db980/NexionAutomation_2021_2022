@@ -1,0 +1,6 @@
+D:\IndustryReport\Shared\Nexion.Shared\bin\Nexion.Shared.Core.dll
+D:\IndustryReport\Shared\Nexion.Shared\bin\Nexion.Shared.Core.pdb
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.Core\obj\Debug\Nexion.Shared.Core.csprojAssemblyReference.cache
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.Core\obj\Debug\Nexion.Shared.Core.csproj.CoreCompileInputs.cache
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.Core\obj\Debug\Nexion.Shared.Core.dll
+D:\IndustryReport\Shared\Nexion.Shared\Nexion.Shared.Core\obj\Debug\Nexion.Shared.Core.pdb
